@@ -22,7 +22,7 @@ Budgety is a web browser application for personal budget management. Its main go
 
 
 ## About the Project
-![Screenshot of the project](screenshot.png)
+![Screenshot of the project](Screenshot.png)
 
 Budgety is a Web App developed by Jonas Schmedtmann in the Udemy course [The Complete JavaScript Course 2020](https://www.udemy.com/course/the-complete-javascript-course/). I wrote this code to learn the advanced techniques used nowadays to develop modern Web App's. Besides, this code will help to develop other Web App's as a code reference.
 
